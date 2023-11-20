@@ -11,4 +11,5 @@ public class UserDetails {
     private UUID userId;
     private String nome;
     private String email;
+    private String uid;
 }
